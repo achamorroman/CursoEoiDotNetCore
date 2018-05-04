@@ -1,9 +1,9 @@
-# Curso León EOI 2017 C# y DotNetCore
+# Curso EOI: C#, OOP, WebAPI y DotNetCore
 Introducción al lenguaje C# y .NET Core por Diego Ponce de León para la EOI
 
-![logos](https://raw.githubusercontent.com/xleon/CursoLeonEoiDotNetCore/master/Assets/logos.png)
+![logos](https://raw.githubusercontent.com/achamorroman/CursoEoiDotNetCore/master/Assets/logos.png)
 
-> Archivos y documentación del curso en https://github.com/xleon/CursoLeonEoiDotNetCore
+> Archivos y documentación del curso en https://github.com/achamorroman/CursoEoiDotNetCore
 
 
 ## Herramientas utilizadas
@@ -105,7 +105,7 @@ Introducción al lenguaje C# y .NET Core por Diego Ponce de León para la EOI
 Todo el código se encuentra en distintos proyectos pero dentro de una misma solución de Visual Studio.
 Para usar el código solo hace falta clonar este repositorio:
 
-    git clone https://github.com/xleon/CursoLeonEoiDotNetCore.git
+    git clone https://github.com/achamorroman/CursoEoiDotNetCore.git
 
 y luego hacer doble click en `CursoLeonEoiDotNetCore.sln` (con Visual Studio instalado).
 
