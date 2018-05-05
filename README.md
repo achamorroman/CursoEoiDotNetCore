@@ -16,7 +16,7 @@ Introducción al lenguaje C# y .NET Core por Diego Ponce de León para la EOI
 - [Git desde Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 - [Git desde Visual Studio](https://docs.microsoft.com/es-es/vsts/git/gitquickstart?tabs=visual-studio)
 - [Github](https://github.com/)
-- [GitKraken](https://www.gitkraken.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
 - [Postman](https://www.getpostman.com/)
 
 ## Conceptos aprendidos durante el desarrollo
